@@ -1,0 +1,285 @@
+category,response,numerator,denominator,percent,order,analyte,challenge,remedy
+Years of performing OA testing,0-5,1,31,3.2,1,,,
+Years of performing OA testing,6-10,1,31,3.2,2,,,
+Years of performing OA testing,11-15,1,31,3.2,3,,,
+Years of performing OA testing,15-20,4,31,12.9,4,,,
+Years of performing OA testing,>20,24,31,77.4,5,,,
+Number of OA tested per year,<100,2,31,6.5,1,,,
+Number of OA tested per year,100-500,7,31,22.5,2,,,
+Number of OA tested per year,501-1000,12,31,38.7,3,,,
+Number of OA tested per year,>1000,10,31,32.3,4,,,
+Type of instrument used for OA,GC-MS,28,31,90.3,1,,,
+Type of instrument used for OA,GC-MS/MS,2,31,6.5,2,,,
+Type of instrument used for OA,"GC-MS, LCMS",1,31,3.2,3,,,
+Vendors of instruments used,Agilent,26,33,78.8,1,,,
+Vendors of instruments used,Thermo Scientific,3,33,9.1,2,,,
+Vendors of instruments used,Schimadzu,2,33,6.1,3,,,
+Vendors of instruments used,Perkin Elmer,2,33,6.1,4,,,
+Run time for routine analysis (minutes),10-30,5,32,15.6,1,,,
+Run time for routine analysis (minutes),31-60,23,32,71.9,2,,,
+Run time for routine analysis (minutes),>60,4,32,12.5,3,,,
+Reasons for creatinine normalization,Urine volume adjustment,30,35,85.7,1,,,
+Reasons for creatinine normalization,IS adjustment,3,35,8.6,2,,,
+Reasons for creatinine normalization,Reporting normalization,1,35,2.9,3,,,
+Reasons for creatinine normalization,BSTFA (silylation),1,35,2.9,4,,,
+Special procedures for high/low creatinine samples?,Yes,16,30,53.3,1,,,
+Special procedures for high/low creatinine samples?,No,14,30,46.7,2,,,
+Specimen rejection based on minimum creatinine results?,Yes,18,32,58.3,1,,,
+Specimen rejection based on minimum creatinine results?,No,14,32,43.7,2,,,
+Criteria used by lab to reject urine sample,Visible contamination,25,53,47.2,1,,,
+Criteria used by lab to reject urine sample,Too low creatinine,13,53,24.5,2,,,
+Criteria used by lab to reject urine sample,Transport/storage delay/deteriorated,10,53,18.9,3,,,
+Criteria used by lab to reject urine sample,Insufficient volume/leaked sample,3,53,5.7,4,,,
+Criteria used by lab to reject urine sample,Improper container/preservative,1,53,1.9,5,,,
+Criteria used by lab to reject urine sample,Analyze with a comment/disclaimer,1,53,1.9,6,,,
+Chemicals used for extraction,Ethyl acetate,20,30,66.7,1,,,
+Chemicals used for extraction,Ethyl acetate + Ether,8,30,26.7,2,,,
+Chemicals used for extraction,Urease,2,30,6.7,3,,,
+Does your laboratory perform oximation?,Yes (Always),19,32,59.4,1,,,
+Does your laboratory perform oximation?,Yes (clinical context),2,32,6.3,2,,,
+Does your laboratory perform oximation?,No,11,32,34.4,3,,,
+Reagent Laboratory is using for oximation,Hydroxylamine,16,21,76.2,1,,,
+Reagent Laboratory is using for oximation,Methoxylamine,2,21,9.5,2,,,
+Reagent Laboratory is using for oximation,Pentafluorobenzylhydroxylamine hydrochloride,2,21,9.5,3,,,
+Reagent Laboratory is using for oximation,Ethoxylamine,1,21,4.8,4,,,
+Derivatization Method,Trimethylsilylation,32,32,100.0,1,,,
+Spikes IS before extraction to track efficiency,Yes,31,32,96.9,1,,,
+"Spikes ES post-extraction, pre-evaporation to verify instrument performance",Yes,11,32,34.4,1,,,
+What is the number of internal standards used in your procedure?,1,14,32,43.8,1,,,
+What is the number of internal standards used in your procedure?,2,8,32,25.0,2,,,
+What is the number of internal standards used in your procedure?,≥3,10,32,31.3,3,,,
+Why laboratories use more than one internal standard,Quantitation/Semi Quantification,12,31,38.7,1,,,
+Why laboratories use more than one internal standard,Oximation,6,31,19.4,2,,,
+Why laboratories use more than one internal standard,Extraction efficiency,9,31,29.0,3,,,
+Why laboratories use more than one internal standard,Instability during dry-down,2,31,6.5,4,,,
+Why laboratories use more than one internal standard,Sensitivity Check,2,31,6.5,5,,,
+Type of internal standard for monitoring pre-analytical steps,2-ketocaproic acid,5,33,15.2,1,,,
+Type of internal standard for monitoring pre-analytical steps,Pentadecanoic acid,4,33,12.1,2,,,
+Type of internal standard for monitoring pre-analytical steps,Heptadecanoic acid,4,33,12.1,3,,,
+Type of internal standard for monitoring pre-analytical steps,2-phenylbutyric acid,2,33,6.1,4,,,
+Type of internal standard for monitoring pre-analytical steps,Undecanedioic acid,2,33,6.1,5,,,
+Type of internal standard for monitoring pre-analytical steps,"3,3-dimethylglutaric",1,33,3.0,6,,,
+Type of internal standard for monitoring pre-analytical steps,"3,4-dimethoxyphenylacetic acid",1,33,3.0,7,,,
+Type of internal standard for monitoring pre-analytical steps,4-phenylbutyric acid,1,33,3.0,8,,,
+Type of internal standard for monitoring pre-analytical steps,Bromobenzoic acid,1,33,3.0,9,,,
+Type of internal standard for monitoring pre-analytical steps,Caproic acid,1,33,3.0,10,,,
+Type of internal standard for monitoring pre-analytical steps,hexanoyl glycine and orotic acid,1,33,3.0,11,,,
+Type of internal standard for monitoring pre-analytical steps,ortho-hydroxyphenylacetic acid,1,33,3.0,12,,,
+Type of internal standard for monitoring pre-analytical steps,p-chlorobenzoic acid,1,33,3.0,13,,,
+Type of internal standard for monitoring pre-analytical steps,stable isotope labeled organic acids,4,33,12.1,14,,,
+Type of internal standard for monitoring pre-analytical steps,Tetracosane,1,33,3.0,15,,,
+Type of internal standard for monitoring pre-analytical steps,Tropic acid,1,33,3.0,16,,,
+Type of internal standard for quantitation/semi-quantitation purposes,2-ketocaproic acid,6,26,23.1,1,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Heptadecanoic acid,3,26,11.5,2,,,
+Type of internal standard for quantitation/semi-quantitation purposes,2-phenylbutyric acid,3,26,11.5,3,,,
+Type of internal standard for quantitation/semi-quantitation purposes,stable isotope labeled organic acids,3,26,11.5,4,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Pentadecanoic acid,2,26,7.7,5,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Tetracosane,1,26,3.8,6,,,
+Type of internal standard for quantitation/semi-quantitation purposes,ortho-hydroxyphenylacetic acid,1,26,3.8,7,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Cyclohexylacetic acid,1,26,3.8,8,,,
+Type of internal standard for quantitation/semi-quantitation purposes,"3,3-dimethylglutaric",1,26,3.8,9,,,
+Type of internal standard for quantitation/semi-quantitation purposes,4-phenylbutyric acid,1,26,3.8,10,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Succinic acid-d6,1,26,3.8,11,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Undecanedioic acid,1,26,3.8,12,,,
+Type of internal standard for quantitation/semi-quantitation purposes,Undecanoic acid,1,26,3.8,13,,,
+Type of internal standard for quantitation/semi-quantitation purposes,p-chlorobenzoic acid,1,26,3.8,14,,,
+Does your laboratory perform quantitative analysis,NO – only qualitative review,11,30,36.7,1,,,
+Does your laboratory perform quantitative analysis,YES – for a subset of compounds,14,30,46.7,2,,,
+Does your laboratory perform quantitative analysis,YES – on all analyzed compounds,5,30,16.7,3,,,
+How many compounds are quantified,1–10,5,21,23.8,1,,,
+How many compounds are quantified,11–20,4,21,19.0,2,,,
+How many compounds are quantified,21–30,1,21,4.8,3,,,
+How many compounds are quantified,More than 30,11,21,52.4,4,,,
+Number of standard mixes prepared for calibration,1,5,19,26.3,1,,,
+Number of standard mixes prepared for calibration,2,2,19,10.5,2,,,
+Number of standard mixes prepared for calibration,3 or more,12,19,63.2,3,,,
+Units of quantitation,mmol/mol creatinine,15,20,75.0,1,,,
+Units of quantitation,mg/g creatinine,1,20,5.0,2,,,
+Units of quantitation,μmol/mol creatinine,3,20,15.0,3,,,
+Units of quantitation,Semi quantitation pseudo units (PU),1,20,5.0,4,,,
+Are the concentrations provided on the final report,Yes,16,19,84.2,1,,,
+Are the concentrations provided on the final report,No,3,19,15.8,2,,,
+Inclusion of QC materials in each run,Yes,27,31,87.1,1,,,
+Number of QC materials with each run,1,5,29,17.2,1,,,
+Number of QC materials with each run,2,18,29,62.1,2,,,
+Number of QC materials with each run,≥3,6,29,20.7,3,,,
+Materials used for QC,Aqueous blank,7,63,11.1,1,,,
+Materials used for QC,Extracted water blank,12,63,19.0,2,,,
+Materials used for QC,In-house urine sample from patients with normal profile,14,63,22.2,3,,,
+Materials used for QC,In-house urine sample from known patient,2,63,3.2,4,,,
+Materials used for QC,Standards spiked in water,4,63,6.3,5,,,
+Materials used for QC,Commercial urine,8,63,12.7,6,,,
+Materials used for QC,Standards spiked in urine,13,63,20.6,7,,,
+Materials used for QC,Solvent blank,4,63,6.3,8,,,
+Materials used for QC,Standards spiked in solvent,1,63,1.6,9,,,
+Number of compounds monitored in QC samples,1-5,7,31,22.6,1,,,
+Number of compounds monitored in QC samples,6-10,9,31,29.0,2,,,
+Number of compounds monitored in QC samples,11-15,3,31,9.7,3,,,
+Number of compounds monitored in QC samples,>15,12,31,38.7,4,,,
+External proficiency testing for organic acids,ERNDIM- qualitative organic acids,22,68,32.4,1,,,
+External proficiency testing for organic acids,ERNDIM- quantitative organic acids,12,68,17.6,2,,,
+External proficiency testing for organic acids,ERNDIM- special assays in urine,12,68,17.6,3,,,
+External proficiency testing for organic acids,ERNDIM - DPT scheme,1,68,1.5,4,,,
+External proficiency testing for organic acids,College of American Pathologists (CAP),19,68,27.9,5,,,
+External proficiency testing for organic acids,Alternative Proficiency Approach,1,68,1.5,6,,,
+External proficiency testing for organic acids,In-house blind analysis,1,68,1.5,7,,,
+Is lab performing an instrument or system suitability check,YES – before every batch,22,32,68.8,1,,,
+Is lab performing an instrument or system suitability check,YES – after a column change,5,32,15.6,2,,,
+Is lab performing an instrument or system suitability check,YES – at least once a week,3,32,9.4,3,,,
+Is lab performing an instrument or system suitability check,YES – after servicing or setup changes,1,32,3.1,4,,,
+Is lab performing an instrument or system suitability check,No,1,32,3.1,5,,,
+Specimens used for instrument verification check,Pooled urine sample,6,30,20.0,1,,,
+Specimens used for instrument verification check,Blank (water/solvent),10,30,33.3,2,,,
+Specimens used for instrument verification check,Control material,6,30,20.0,3,,,
+Specimens used for instrument verification check,Standard solution,4,30,13.3,4,,,
+Specimens used for instrument verification check,System suitability sample (SST),3,30,10.0,5,,,
+Specimens used for instrument verification check,TMS-derivatized,1,30,3.3,6,,,
+Verification parameters before routine sample injection,Abundance (peak height or area),22,89,24.7,1,,,
+Verification parameters before routine sample injection,Retention time,19,89,21.3,2,,,
+Verification parameters before routine sample injection,Peak shape,17,89,19.1,3,,,
+Verification parameters before routine sample injection,Presence of extra peaks,11,89,12.4,4,,,
+Verification parameters before routine sample injection,"Quantitative amount (mean, SD)",9,89,10.1,5,,,
+Verification parameters before routine sample injection,Ion ratio,10,89,11.2,6,,,
+Verification parameters before routine sample injection,Automated check by system,1,89,1.1,7,,,
+Number of analytes reviewed during instrument verification check,0-1,5,28,17.9,1,,,
+Number of analytes reviewed during instrument verification check,2-5,5,28,17.9,2,,,
+Number of analytes reviewed during instrument verification check,6-10,8,28,28.5,3,,,
+Number of analytes reviewed during instrument verification check,>10,10,28,35.7,4,,,
+Libraries used for peak identification,Developed In-house,29,77,37.7,1,,,
+Libraries used for peak identification,Shared by other laboratories,12,77,15.6,2,,,
+Libraries used for peak identification,Commercial library,35,77,45.5,3,,,
+Libraries used for peak identification,Commercial reference standards (not library),1,77,1.3,4,,,
+How compounds are added to in-house library,Purchased standards,25,78,32.1,1,,,
+How compounds are added to in-house library,Mass spectra obtained via proficiency testing,23,78,29.5,2,,,
+How compounds are added to in-house library,Unknowns detected via patient samples/chart/literature,16,78,20.5,3,,,
+How compounds are added to in-house library,Shared mass spectra by other laboratories,10,78,12.8,4,,,
+How compounds are added to in-house library,Known diagnosed cases,2,78,2.6,5,,,
+How compounds are added to in-house library,Some synthesized in house,1,78,1.3,6,,,
+How compounds are added to in-house library,Spectra copied From NIST library,1,78,1.3,7,,,
+Overall process for peak identification,Combination of automated and manual review,22,32,68.8,1,,,
+Overall process for peak identification,Manual review,8,32,25.0,2,,,
+Overall process for peak identification,Automatic peak identification by instrument software,2,32,6.3,3,,,
+Variables used for establishing peak identity,Retention time,31,90,34.4,1,,,
+Variables used for establishing peak identity,Spectra percentage match with library,30,90,33.3,2,,,
+Variables used for establishing peak identity,Ion ratios,26,90,28.9,3,,,
+Variables used for establishing peak identity,Methylene units,1,90,1.1,4,,,
+Variables used for establishing peak identity,Extracted ion chromatograms,1,90,1.1,5,,,
+Variables used for establishing peak identity,Spectra subtraction,1,90,1.1,6,,,
+Who interprets organic acid profiles,Board certified biochemical geneticist,22,45,48.9,1,,,
+Who interprets organic acid profiles,Board certified clinical chemist,10,45,22.2,2,,,
+Who interprets organic acid profiles,Board certified pathologist,7,45,15.6,3,,,
+Who interprets organic acid profiles,Laboratory Manager,1,45,2.2,4,,,
+Who interprets organic acid profiles,Scientist,5,45,11.1,5,,,
+Frequency of interpretation without access to clinical or phenotypic information,Sometimes,27,32,84.4,1,,,
+Frequency of interpretation without access to clinical or phenotypic information,Always,3,32,9.4,2,,,
+Frequency of interpretation without access to clinical or phenotypic information,Never,2,32,6.3,3,,,
+Frequency of reports where lab seeks clinical info from providers/charts,0–10%,19,32,59.4,1,,,
+Frequency of reports where lab seeks clinical info from providers/charts,11–50%,6,32,18.8,2,,,
+Frequency of reports where lab seeks clinical info from providers/charts,More than 50%,7,32,21.9,3,,,
+Do you correlate organic acids with other tests before interpretation,YES,24,32,75.0,1,,,
+Do you correlate organic acids with other tests before interpretation,NO,2,32,6.3,2,,,
+Do you correlate organic acids with other tests before interpretation,It’s complicated (conditional/partial correlation),6,32,18.8,3,,,
+What is included in the report?,Clinically significant abnormalities,34,68,50.0,1,,,
+What is included in the report?,All abnormal findings on chromatogram,12,68,17.6,2,,,
+What is included in the report?,All drugs,12,68,17.6,3,,,
+What is included in the report?,Fixed list of compounds,6,68,8.8,4,,,
+What is included in the report?,"Minor, not clinically significant abnormalities (e.g., cresol, furan)",4,68,5.9,5,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,3OH glutaric acid,16,32,50.0,1,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,Mevalonolactone,13,32,40.6,2,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,Succinylacetone,10,32,31.2,3,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,"2,3-diOH-2-methylbutyric acid",9,32,28.1,4,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,4OH butyric acid,9,32,28.1,5,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,Hexanoylglycine,9,32,28.1,6,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,Malonic acid,9,32,28.1,7,,,
+Difficult-to-Analyze Analytes Across Participating Laboratories,Orotic acid,9,32,28.1,8,,,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH glutaric acid | co-elution,11,32,34.4,1,3OH glutaric acid,co-elution,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,4OH butyric acid | co-elution,6,32,18.8,2,4OH butyric acid,co-elution,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Hexanoylglycine | co-elution,2,32,6.2,3,Hexanoylglycine,co-elution,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Orotic acid | co-elution,4,32,12.5,4,Orotic acid,co-elution,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,2OH glutaric acid | co-elution,2,32,6.2,5,2OH glutaric acid,co-elution,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH isobutyric acid | co-elution,2,32,6.2,6,3OH isobutyric acid,co-elution,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH glutaric acid | recovery,1,32,3.1,7,3OH glutaric acid,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Mevalonolactone | recovery,7,32,21.9,8,Mevalonolactone,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Succinylacetone | recovery,2,32,6.2,9,Succinylacetone,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,4OH butyric acid | recovery,1,32,3.1,10,4OH butyric acid,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Hexanoylglycine | recovery,2,32,6.2,11,Hexanoylglycine,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Malonic acid | recovery,2,32,6.2,12,Malonic acid,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Orotic acid | recovery,3,32,9.4,13,Orotic acid,recovery,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH glutaric acid | peak identification,1,32,3.1,14,3OH glutaric acid,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Mevalonolactone | peak identification,2,32,6.2,15,Mevalonolactone,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Succinylacetone | peak identification,1,32,3.1,16,Succinylacetone,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,"2,3-diOH-2-methylbutyric acid | peak identification",4,32,12.5,17,"2,3-diOH-2-methylbutyric acid",peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,4OH butyric acid | peak identification,1,32,3.1,18,4OH butyric acid,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Malonic acid | peak identification,2,32,6.2,19,Malonic acid,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Orotic acid | peak identification,1,32,3.1,20,Orotic acid,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,2OH glutaric acid | peak identification,1,32,3.1,21,2OH glutaric acid,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH isobutyric acid | peak identification,1,32,3.1,22,3OH isobutyric acid,peak identification,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH glutaric acid | quantitation,1,32,3.1,23,3OH glutaric acid,quantitation,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Succinylacetone | quantitation,3,32,9.4,24,Succinylacetone,quantitation,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Hexanoylglycine | quantitation,2,32,6.2,25,Hexanoylglycine,quantitation,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Mevalonolactone | patient-related interferences,1,32,3.1,26,Mevalonolactone,patient-related interferences,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,"2,3-diOH-2-methylbutyric acid | patient-related interferences",2,32,6.2,27,"2,3-diOH-2-methylbutyric acid",patient-related interferences,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Malonic acid | patient-related interferences,1,32,3.1,28,Malonic acid,patient-related interferences,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,3OH glutaric acid | column retention,1,32,3.1,29,3OH glutaric acid,column retention,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Hexanoylglycine | column retention,1,32,3.1,30,Hexanoylglycine,column retention,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Malonic acid | column retention,1,32,3.1,31,Malonic acid,column retention,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Malonic acid | fragmentation pattern not specific,3,32,9.4,32,Malonic acid,fragmentation pattern not specific,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,Mevalonolactone | lack of consistent standards/calibrators,1,32,3.1,33,Mevalonolactone,lack of consistent standards/calibrators,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,"2,3-diOH-2-methylbutyric acid | lack of consistent standards/calibrators",1,32,3.1,34,"2,3-diOH-2-methylbutyric acid",lack of consistent standards/calibrators,
+Challenges Associated with the Top 10 Difficult-to-Analyze Analytes Across Participating Laboratories,4OH butyric acid | lack of consistent standards/calibrators,1,32,3.1,35,4OH butyric acid,lack of consistent standards/calibrators,
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Perform extraction ion chromatogram (extracted ion scan),10,32,31.2,1,3OH glutaric acid,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,Mevalonolactone | Perform extraction ion chromatogram (extracted ion scan),8,32,25.0,2,Mevalonolactone,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,Succinylacetone | Perform extraction ion chromatogram (extracted ion scan),6,32,18.8,3,Succinylacetone,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,"2,3-diOH-2-methylbutyric acid | Perform extraction ion chromatogram (extracted ion scan)",6,32,18.8,4,"2,3-diOH-2-methylbutyric acid",,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,4OH butyric acid | Perform extraction ion chromatogram (extracted ion scan),6,32,18.8,5,4OH butyric acid,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,Hexanoylglycine | Perform extraction ion chromatogram (extracted ion scan),5,32,15.6,6,Hexanoylglycine,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,Malonic acid | Perform extraction ion chromatogram (extracted ion scan),3,32,9.4,7,Malonic acid,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,Orotic acid | Perform extraction ion chromatogram (extracted ion scan),6,32,18.8,8,Orotic acid,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,2OH glutaric acid | Perform extraction ion chromatogram (extracted ion scan),4,32,12.5,9,2OH glutaric acid,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,3OH isobutyric acid | Perform extraction ion chromatogram (extracted ion scan),1,32,3.1,10,3OH isobutyric acid,,Perform extraction ion chromatogram (extracted ion scan)
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Compare fragmentation chromatogram with library,8,32,25.0,11,3OH glutaric acid,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,Mevalonolactone | Compare fragmentation chromatogram with library,5,32,15.6,12,Mevalonolactone,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,Succinylacetone | Compare fragmentation chromatogram with library,4,32,12.5,13,Succinylacetone,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,"2,3-diOH-2-methylbutyric acid | Compare fragmentation chromatogram with library",4,32,12.5,14,"2,3-diOH-2-methylbutyric acid",,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,4OH butyric acid | Compare fragmentation chromatogram with library,6,32,18.8,15,4OH butyric acid,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,Hexanoylglycine | Compare fragmentation chromatogram with library,3,32,9.4,16,Hexanoylglycine,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,Malonic acid | Compare fragmentation chromatogram with library,6,32,18.8,17,Malonic acid,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,Orotic acid | Compare fragmentation chromatogram with library,4,32,12.5,18,Orotic acid,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,3OH isobutyric acid | Compare fragmentation chromatogram with library,2,32,6.2,19,3OH isobutyric acid,,Compare fragmentation chromatogram with library
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Uncategorized other,2,32,6.2,20,3OH glutaric acid,,Uncategorized other
+Remedies for the top 10 challenging analytes,Mevalonolactone | Uncategorized other,2,32,6.2,21,Mevalonolactone,,Uncategorized other
+Remedies for the top 10 challenging analytes,Succinylacetone | Uncategorized other,3,32,9.4,22,Succinylacetone,,Uncategorized other
+Remedies for the top 10 challenging analytes,"2,3-diOH-2-methylbutyric acid | Uncategorized other",2,32,6.2,23,"2,3-diOH-2-methylbutyric acid",,Uncategorized other
+Remedies for the top 10 challenging analytes,Hexanoylglycine | Uncategorized other,4,32,12.5,24,Hexanoylglycine,,Uncategorized other
+Remedies for the top 10 challenging analytes,Malonic acid | Uncategorized other,3,32,9.4,25,Malonic acid,,Uncategorized other
+Remedies for the top 10 challenging analytes,Orotic acid | Uncategorized other,2,32,6.2,26,Orotic acid,,Uncategorized other
+Remedies for the top 10 challenging analytes,2OH glutaric acid | Uncategorized other,1,32,3.1,27,2OH glutaric acid,,Uncategorized other
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Perform selected ion monitoring,4,32,12.5,28,3OH glutaric acid,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,Mevalonolactone | Perform selected ion monitoring,2,32,6.2,29,Mevalonolactone,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,Succinylacetone | Perform selected ion monitoring,1,32,3.1,30,Succinylacetone,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,4OH butyric acid | Perform selected ion monitoring,1,32,3.1,31,4OH butyric acid,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,Hexanoylglycine | Perform selected ion monitoring,2,32,6.2,32,Hexanoylglycine,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,Malonic acid | Perform selected ion monitoring,3,32,9.4,33,Malonic acid,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,Orotic acid | Perform selected ion monitoring,3,32,9.4,34,Orotic acid,,Perform selected ion monitoring
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Perform peak deconvolution,3,32,9.4,35,3OH glutaric acid,,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,Mevalonolactone | Perform peak deconvolution,1,32,3.1,36,Mevalonolactone,,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,Succinylacetone | Perform peak deconvolution,1,32,3.1,37,Succinylacetone,,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,"2,3-diOH-2-methylbutyric acid | Perform peak deconvolution",2,32,6.2,38,"2,3-diOH-2-methylbutyric acid",,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,4OH butyric acid | Perform peak deconvolution,1,32,3.1,39,4OH butyric acid,,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,Orotic acid | Perform peak deconvolution,1,32,3.1,40,Orotic acid,,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,3OH isobutyric acid | Perform peak deconvolution,1,32,3.1,41,3OH isobutyric acid,,Perform peak deconvolution
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Contact requesting health care physician,1,32,3.1,42,3OH glutaric acid,,Contact requesting health care physician
+Remedies for the top 10 challenging analytes,Mevalonolactone | Contact requesting health care physician,1,32,3.1,43,Mevalonolactone,,Contact requesting health care physician
+Remedies for the top 10 challenging analytes,Succinylacetone | Contact requesting health care physician,1,32,3.1,44,Succinylacetone,,Contact requesting health care physician
+Remedies for the top 10 challenging analytes,4OH butyric acid | Contact requesting health care physician,1,32,3.1,45,4OH butyric acid,,Contact requesting health care physician
+Remedies for the top 10 challenging analytes,Malonic acid | Contact requesting health care physician,1,32,3.1,46,Malonic acid,,Contact requesting health care physician
+Remedies for the top 10 challenging analytes,Orotic acid | Contact requesting health care physician,1,32,3.1,47,Orotic acid,,Contact requesting health care physician
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Manual mixture review / composite spectrum assessment,1,32,3.1,48,3OH glutaric acid,,Manual mixture review / composite spectrum assessment
+Remedies for the top 10 challenging analytes,Mevalonolactone | Manual mixture review / composite spectrum assessment,1,32,3.1,49,Mevalonolactone,,Manual mixture review / composite spectrum assessment
+Remedies for the top 10 challenging analytes,Hexanoylglycine | Manual mixture review / composite spectrum assessment,1,32,3.1,50,Hexanoylglycine,,Manual mixture review / composite spectrum assessment
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Correlate with clinical context / other lab data,1,32,3.1,51,3OH glutaric acid,,Correlate with clinical context / other lab data
+Remedies for the top 10 challenging analytes,4OH butyric acid | Correlate with clinical context / other lab data,1,32,3.1,52,4OH butyric acid,,Correlate with clinical context / other lab data
+Remedies for the top 10 challenging analytes,3OH glutaric acid | Separate GC method/run to resolve co-elution,1,32,3.1,53,3OH glutaric acid,,Separate GC method/run to resolve co-elution
+Remedies for the top 10 challenging analytes,2OH glutaric acid | Separate GC method/run to resolve co-elution,1,32,3.1,54,2OH glutaric acid,,Separate GC method/run to resolve co-elution
+Remedies for the top 10 challenging analytes,Hexanoylglycine | Perform analysis of urine acylglycines,1,32,3.1,55,Hexanoylglycine,,Perform analysis of urine acylglycines
+Remedies for the top 10 challenging analytes,Succinylacetone | Perform oximation,1,32,3.1,56,Succinylacetone,,Perform oximation
